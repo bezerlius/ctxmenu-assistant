@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bezerlius/ctxmenu-assistant-berz/releases"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4"></a>
+  <a href="https://github.com/bezerlius/ctxmenu-assistant/releases"><img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
   <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-blue"></a>
   <img alt="Dependencies" src="https://img.shields.io/badge/dependencies-0-brightgreen">
@@ -92,9 +92,9 @@
 ## 下载使用
 
 **方式一（推荐）**：直接下载仓库里的 exe
-👉 [`dist/右键菜单助手.exe`](https://github.com/bezerlius/ctxmenu-assistant-berz/raw/main/dist/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E5%8A%A9%E6%89%8B.exe)
+👉 [`dist/右键菜单助手.exe`](https://github.com/bezerlius/ctxmenu-assistant/raw/main/dist/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E5%8A%A9%E6%89%8B.exe)
 
-**方式二**：从 [Releases](https://github.com/bezerlius/ctxmenu-assistant-berz/releases) 页面下载
+**方式二**：从 [Releases](https://github.com/bezerlius/ctxmenu-assistant/releases) 页面下载
 
 双击即用，**无需安装 Python**。
 
