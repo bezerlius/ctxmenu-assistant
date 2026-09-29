@@ -52,3 +52,7 @@ $RECYCLE.BIN/
 *.log
 _shot*.png
 _shot_bounds.txt
+
+# 展示用的截图必须纳入版本管理，覆盖上面的临时截图规则
+!展示/
+!展示/*.png
