@@ -1,0 +1,15 @@
+# 默认自动处理换行符
+* text=auto
+
+# 源码/文档统一用 LF 存储，检出时按平台处理
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# Windows 脚本保持 CRLF
+*.bat  text eol=crlf
+
+# 二进制文件不做任何转换
+*.exe  binary
+*.ico  binary
+*.png  binary
